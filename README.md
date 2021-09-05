@@ -12,7 +12,7 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 > 
 > For BluRay Box 30 episodes
 
->情報　Info：　[AniDB Link](https://anidb.net/anime/22)　[IMDB](https://www.imdb.com/title/tt0112159/)
+>情報　Info：　[AniDB Link](https://anidb.net/anime/22)　[IMDB](https://www.imdb.com/title/tt0112159/)　[Wikipedia](https://ja.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3)
 
 
 ### Support Languages 

@@ -15,6 +15,13 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 >情報　Info：　[AniDB Link](https://anidb.net/anime/22)　[IMDB](https://www.imdb.com/title/tt0112159/)
 
 
+### Support Languages 
+> 1.日本語 ***Working On...... | Same as BluRay Disk***
+> 
+> 2.简体中文 ***Some subs from EVAFans And BILIBILI  are use as a reference***
+> 
+> 3.English ***After 1&2***
+
 ## Working on ......
 - [ ] 01 第壱話「使徒、襲来」
 - [ ] 02 第弐話「見知らぬ、天井」

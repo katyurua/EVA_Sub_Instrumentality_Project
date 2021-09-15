@@ -25,7 +25,7 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 > 3.English ***After 1&2***
 
 ## Working on ......
-- [ ] 01 第壱話「使徒、襲来」
+- [ ] 01 第壱話「使徒、襲来」 [JPN](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.JPN.ass)
 - [ ] 02 第弐話「見知らぬ、天井」
 - [ ] 03 第参話「鳴らない、電話」
 - [ ] 04 第四話「雨、逃げ出した後」

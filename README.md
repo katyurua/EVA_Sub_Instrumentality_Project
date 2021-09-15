@@ -23,8 +23,8 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 > 2.简体中文 ***Some subs from EVAFans And BILIBILI  are use as a reference***
 > 
 > 3.English ***After 1&2***
-> 
-> Tested with BluRay Box / NYAA 1408677
+
+#### Tested with BluRay Box / NYAA 1408677
 
 ## Working on ......
 - [ ] 01 第壱話「使徒、襲来」 [JPN](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.JPN.ass)

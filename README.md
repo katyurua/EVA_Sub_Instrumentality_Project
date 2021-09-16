@@ -27,7 +27,7 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 #### Tested with BluRay Box / NYAA 1408677
 
 ## Working on ......
-- [ ] 01 第壱話「使徒、襲来」 [JPN](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.JPN.ass)
+- [ ] 01 第壱話「使徒、襲来」 [JPN](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.JPN.ass) | [CHS](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.CHS.ass)
 - [ ] 02 第弐話「見知らぬ、天井」
 - [ ] 03 第参話「鳴らない、電話」
 - [ ] 04 第四話「雨、逃げ出した後」

@@ -20,7 +20,7 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 ### Support Languages 
 > 1.日本語 ***Working On...... | Same as BluRay Disk***
 > 
-> 2.简体中文 ***Some subs from EVAFans And BILIBILI  are use as a reference***
+> 2.简体中文 ***Some subs are from EVAFans And BILIBILI***
 > 
 > 3.English ***After 1&2***
 

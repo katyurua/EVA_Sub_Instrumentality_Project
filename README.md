@@ -1,32 +1,36 @@
 # EVA_Sub_Instrumentality_Project
+
 Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァンゲリオン 字幕補完計画
 
 壱九九五　―　弐〇弐壱
-* * * 
-## 1995 新世紀エヴァンゲリオン 
+***
+
+## 1995 新世紀エヴァンゲリオン
+
 > **Neon Genesis Evangelion**
-
+>
 > 新世紀エヴァンゲリオン 1995年から1996年に放送されたテレビアニメ 全２６話 + ４話VIDEO
-> 
+>
 > ブルーレイボックス対応　合計３０話
-
+>
 > TV Series 26 episodes + 4 VIDEO episodes
-> 
+>
 > For BluRay Box 30 episodes
-
+>
 >情報　Info：　[AniDB Link](https://anidb.net/anime/22)　[IMDB](https://www.imdb.com/title/tt0112159/)　[Wikipedia](https://ja.wikipedia.org/wiki/%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3)
 
+### Support Languages
 
-### Support Languages 
 > 1.日本語 ***Working On...... | Same as BluRay Disk***
-> 
+>
 > 2.简体中文 ***Some subs are from EVAFans And BILIBILI***
-> 
+>
 > 3.English ***After 1&2***
 
 #### Tested with BluRay Box / NYAA 1408677
 
-## Working on ......
+## Working on
+
 - [ ] 01 第壱話「使徒、襲来」 [JPN](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.JPN.ass) | [CHS](https://github.com/katyurua/EVA_Sub_Instrumentality_Project/raw/main/EVA01.CHS.ass)
 - [ ] 02 第弐話「見知らぬ、天井」
 - [ ] 03 第参話「鳴らない、電話」
@@ -58,9 +62,9 @@ Sub Instrumentality Project of Neon Genesis Evangelion 1996 新世紀エヴァ�
 - [ ] 25 第弐拾伍話「終わる世界」
 - [ ] 26 最終話「世界の中心でアイを叫んだけもの」
 
-
 - *All Episode Titles are from BluRay Box Play Menu.*
 - *Working on TV Series Now*
 
-* * * 
-## Movies todo......
+***
+
+## Movies todo
